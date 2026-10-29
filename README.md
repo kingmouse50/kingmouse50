@@ -1,16 +1,17 @@
-## Hi there 👋
+## 안녕하세요, SHIN입니다 👋
 
-<!--
-**kingmouse50/kingmouse50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+사람이 처음부터 쉽게 쓸 수 있는 서비스를 만들고 싶은 **프로덕트 디자이너**예요.
 
-Here are some ideas to get you started:
+### 해 온 일
+- 리워드(오퍼월) 서비스의 미션 화면을 처음부터 리워드 지급까지 설계했어요.
+- 미션별 전환율을 비교하고 원인을 찾아 화면 구조를 개선했어요.
+- 유지보수를 고려한 피그마 디자인 시스템을 다시 만들었어요.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 만들고 있는 것
+- **2026 월즈 응원 페이지**: 한국 팀을 함께 응원하는 팬 페이지예요. 기획, 디자인, 모션, 개발까지 직접 했어요.
+
+### 쓰는 도구
+Figma · HTML/CSS · Next.js · Supabase · Claude
+
+### 연락
+[Issues](https://github.com/kingmouse50/kingmouse50/issues)에 글을 남겨 주세요.
